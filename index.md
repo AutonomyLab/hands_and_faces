@@ -10,7 +10,6 @@ layout: default
 * In a semi-supervised manner, we used an initial model trained on the previous dataset
 to label more data from third party publically availabe datasets, resulting in 50,365 frames, with 94,854
 hand and 58,210 face labels.
-
 ```
 http://autolab.cmpt.sfu.ca/files/datasets/hands-and-faces/autonomy_hands_and_faces.tar.gz
 
