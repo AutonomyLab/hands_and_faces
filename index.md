@@ -4,6 +4,8 @@ layout: default
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/7vbmOWVxGPU?list=PLN52r1TJ02B6dvtcA9BSRkyvjQmsSwEeU" frameborder="0" allowfullscreen></iframe>
 
+<iframe width="854" height="480" src="https://youtu.be/zGMZHEV429k" frameborder="0" allowfullscreen></iframe>
+
 # [](#dataset)Dataset
 ## Training and Validation Data
 * We created the Autonomy Hands and Faces dataset, consisting of 16,883 images, with human-annotated labels for 34,588 hands and 18,838 faces.
