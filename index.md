@@ -14,8 +14,8 @@ to label more data from third party publically availabe datasets, resulting in 5
 hand and 58,210 face labels.
 ```
 http://autolab.cmpt.sfu.ca/files/datasets/hands-and-faces/autonomy_hands_and_faces.tar.gz
-
 ```
+
 ## Test Data
 * Data from human-UAV interaction over 2.5, 5.0, 7.5, 10.0, and 20.0 meters. 
 ```
