@@ -4,7 +4,7 @@ layout: default
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/7vbmOWVxGPU?list=PLN52r1TJ02B6dvtcA9BSRkyvjQmsSwEeU" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="854" height="480" src="https://youtu.be/zGMZHEV429k" frameborder="0" allowfullscreen></iframe>
+<iframe width="854" height="480" src="https://www.youtube.com/embed/zGMZHEV429k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 # [](#dataset)Dataset
 ## Training and Validation Data
